@@ -1,16 +1,18 @@
-# login_system
+# Protipo para Loja Mostruario (Em construção)
+Loja para vender produtos 
 
-A new Flutter project.
+Objetivo: Sistema mobile para vender produtos 
 
-## Getting Started
+Protótipo:
 
-This project is a starting point for a Flutter application.
+<a href="https://ibb.co/GJCfKV6"><img src="https://i.ibb.co/9vymFqD/Prototipo-figma.png" alt="Prototipo-figma" border="0"></a>
 
-A few resources to get you started if this is your first Flutter project:
+## LINK para o Prototipo:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://www.figma.com/file/28K1vE09fevjLQPkhn0kdI/Login-Home-Design-UI?node-id=1%3A3
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Login System: 
+
+<a href="https://ibb.co/VjrxwXK"><img src="https://i.ibb.co/4m921BQ/Whats-App-Image-2021-01-10-at-18-52-25.jpg" alt="Whats-App-Image-2021-01-10-at-18-52-25" border="0"></a>
+
+Feito em Flutter
